@@ -1,6 +1,6 @@
 # JamSky Games — Privacy Policy
 
-_Last updated: **2026-04-27**_
+_Last updated: **2026-04-29**_
 
 Welcome. This Privacy Policy explains how **JamSky Games, LLC** ("**JamSky**," "**we**," "**our**," or "**us**") collects, uses, discloses, and safeguards information when you interact with any of our games, mobile applications, websites, content, products, or related services (collectively, the "**Services**").
 

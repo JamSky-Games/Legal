@@ -1,6 +1,6 @@
 # JamSky Games — Terms of Service
 
-_Last updated: 2026-04-27_
+_Last updated: 2026-04-29_
 _Version: 1.0_
 
 ---

@@ -42,7 +42,8 @@ These Terms of Service ("Terms") govern your use of Incorgnito and any other gam
 23. [Apple App Store and Google Play](#23-apple-app-store-and-google-play)
 24. [Consumer protection — non-waivable rights](#24-consumer-protection--non-waivable-rights)
 25. [General provisions](#25-general-provisions)
-26. [Contact](#26-contact)
+26. [Fan content and streaming](#26-fan-content-and-streaming)
+27. [Contact](#27-contact)
 
 ---
 
@@ -95,6 +96,7 @@ You may not (and may not allow any third party to):
 - Circumvent, disable, or interfere with security features of the Game or Service;
 - Use any unauthorized client, automation, bot, scraper, hack, modification, exploit, or third-party software to interact with the Service;
 - Use the Service to develop a competing product or for benchmarking purposes;
+- Use the Game, any portion thereof, or any extracted code, models, content, or assets as input to train any generative AI, machine-learning, or large-language-model system, except as expressly authorized by JamSky in writing;
 - Remove, obscure, or alter any copyright, trademark, or other proprietary notices.
 
 ---
@@ -121,7 +123,7 @@ You may choose a display name for your Account. By choosing a display name, you 
 
 - The display name will be associated with your Account and may be used in receipts, support communications, and (if and when we introduce features that show display names to other players) potentially be visible to other users;
 - You will not choose a display name that is offensive, profane, harassing, hateful, sexually explicit, infringing of third-party rights (including trademarks or famous-person likenesses), misleading (such as impersonating JamSky staff), or otherwise contrary to these Terms;
-- We may filter, reject, or require you to change a display name that violates these Terms or applicable law, and we may do so without prior notice.
+- We may filter, reject, require you to change, or unilaterally rename a display name that violates these Terms or applicable law (we will notify you at the email associated with your Account in the event of any unilateral rename), and we may take any of these actions without prior notice in cases of immediate harm to other users or to JamSky.
 
 ---
 
@@ -138,6 +140,8 @@ You agree to use the Service only in accordance with these Terms and applicable 
 - Use the Service in any way that violates applicable law, third-party rights, or these Terms.
 
 We reserve the right to investigate and take appropriate action against any conduct we believe violates these Terms, including suspending or terminating Accounts, removing or limiting Virtual Items, and reporting illegal activity to law enforcement.
+
+**Game-integrity tools.** JamSky uses a combination of server-side validation, behavioral analytics, and device-side integrity checks (collectively, "**Game-Integrity Tools**") to detect cheating, exploits, fraud, and unauthorized modification of the Game. By using the Service you consent to the operation of Game-Integrity Tools. JamSky is not obligated to disclose the specific operation of Game-Integrity Tools to you. Where evidence of a violation has been collected through Game-Integrity Tools, JamSky may rely on that evidence to suspend or terminate your Account, including without first sharing the evidence with you, where reasonably necessary to protect the integrity of the Service or other users. **Merely having unauthorized cheats, mods, exploits, memory-editing software, or similar unauthorized tools installed or running on the device you use to access the Game may, by itself, constitute a violation of these Terms regardless of whether you actively use them against the Service.**
 
 ---
 
@@ -202,6 +206,8 @@ We may also reset, retire, or discontinue specific game modes, leaderboards, eve
 
 If we discontinue the Game or the Service, we may stop processing transactions, disable in-Game purchases, and eventually shut down servers. We will give reasonable advance notice of complete shutdown.
 
+**Beta and experimental features.** JamSky may from time to time designate certain features, content, or modes as "beta," "experimental," "preview," or with similar labels (collectively, "**Beta Features**"). Beta Features are provided to you on an "AS IS" and "AS AVAILABLE" basis, may not be fully tested, may be modified or removed at any time without notice, and may behave unpredictably. The disclaimers in Section 18 and the limitation of liability in Section 19 apply to Beta Features with particular force. JamSky may collect additional diagnostic data from Beta Features for the purpose of evaluating, debugging, and improving them, in accordance with our Privacy Policy. Your use of Beta Features is voluntary; you may decline to use them by avoiding the relevant in-Game opt-in or by uninstalling the Game.
+
 ---
 
 ## 12. Intellectual property
@@ -210,7 +216,38 @@ All title, copyright, trademark, patent, trade secret, and other intellectual pr
 
 "JamSky," "Incorgnito," and the corgi character marks and design are trademarks of JamSky Games, LLC. You may not use any JamSky trademark without our prior written consent.
 
-If you believe content in the Game or Service infringes your intellectual property rights, please contact [legal@jamskygames.com](mailto:legal@jamskygames.com) with sufficient information for us to identify the work, the location of the alleged infringement, your contact information, and a statement of authority and good faith belief.
+### 12.1 Notice of claimed infringement
+
+If you believe in good faith that content in the Game or Service infringes your copyright, trademark, or other intellectual property rights, please send a written notice to [legal@jamskygames.com](mailto:legal@jamskygames.com) that includes all of the following:
+
+1. A description of the copyrighted work or other intellectual property right you claim has been infringed, with sufficient detail to identify it;
+2. A description of the material you claim is infringing and where it appears in the Game or Service, sufficient for us to locate it;
+3. Your contact information (full legal name, address, telephone number, and email);
+4. A statement that you have a good-faith belief that the use of the material complained of is not authorized by you, your agent, or the law;
+5. A statement, made under penalty of perjury, that the information in the notice is accurate and that you are the rightful owner of the intellectual property right or are authorized to act on the owner's behalf;
+6. Your physical or electronic signature.
+
+Notices that do not include all of the above may be rejected.
+
+### 12.2 Counter-notice
+
+If JamSky removes or disables access to material in response to a notice of claimed infringement and you believe in good faith that the removal was the result of mistake or misidentification, you may submit a counter-notice to [legal@jamskygames.com](mailto:legal@jamskygames.com) that includes:
+
+1. Identification of the material that was removed and the location at which it appeared before removal;
+2. A statement, made under penalty of perjury, that you have a good-faith belief that the material was removed or disabled as a result of mistake or misidentification;
+3. Your full legal name, address, telephone number, and email;
+4. A statement that you consent to the jurisdiction of the courts identified in Section 22 (or, for users outside the United States, the courts of your country of residence);
+5. Your physical or electronic signature.
+
+JamSky may, in its sole discretion, replace removed material upon receipt of a valid counter-notice.
+
+### 12.3 Repeat-infringer policy
+
+JamSky may, in appropriate circumstances and at its sole discretion, suspend or terminate the Accounts of users who are determined to be repeat infringers of intellectual property rights.
+
+### 12.4 Designated agent
+
+JamSky has not currently designated a DMCA agent with the U.S. Copyright Office because the Service does not host user-generated content available to the public. If JamSky later introduces such features, JamSky will register a designated agent and update this Section 12 accordingly.
 
 ---
 
@@ -240,9 +277,11 @@ JamSky may operate or link to external services, including an official JamSky Di
 
 ## 16. Modifications to these Terms
 
-We may modify these Terms from time to time. When we do, we will update the "Last updated" date at the top of these Terms and, for material changes, will provide notice through the Game (for example, an in-Game notice on next launch) or by email if we have your address. The updated Terms will take effect on the date stated in the notice, but no sooner than the date posted.
+We may modify these Terms from time to time. When we do, we will update the "Last updated" date at the top of these Terms and, for material changes, will provide notice through the Game (for example, an in-Game notice on next launch) or by email if we have your address.
 
-For material changes that affect your rights, you will have an opportunity to review the updated Terms before they apply to you. Continued use of the Service after the effective date of changes constitutes your acceptance of the updated Terms. If you do not agree to the changes, you must stop using the Service.
+**For material changes that materially expand your obligations or limit your rights**, the updated Terms will take effect **no sooner than thirty (30) days after the notice is given**, except where a shorter period is required by law (for example, in response to a regulatory order or a security threat). Non-material changes (such as clarifying language, fixing typos, or updating contact details) may take effect immediately upon posting.
+
+For material changes that affect your rights, you will have an opportunity to review the updated Terms before they apply to you. Continued use of the Service after the effective date of changes constitutes your acceptance of the updated Terms. If you do not agree to the changes, you must stop using the Service before the effective date.
 
 ---
 
@@ -260,7 +299,7 @@ JamSky may suspend or terminate your access to the Service or your Account, in w
 - Fraud, chargeback abuse, or unauthorized payments;
 - Cheating or use of unauthorized software (Section 4);
 - Suspicion that you are under 16 (Section 3);
-- Inactivity for an extended period (we may close inactive Accounts after notice);
+- Inactivity for **twenty-four (24) months or more**, in which case we may close the Account after providing at least thirty (30) days' advance notice to the email address associated with your Account;
 - Discontinuation of the Service.
 
 For breaches that JamSky reasonably determines are not severe, we will typically provide notice and an opportunity to cure where practicable. For severe breaches (including cheating, fraud, harassment, or activity that places other users at risk), we may terminate immediately.
@@ -360,6 +399,10 @@ The following Disputes are excluded from arbitration and may be brought in court
 
 This Section 21 survives termination of these Terms. If any portion of this Section 21 (other than the class-action waiver in Section 21.5, which is governed by its own severability rule) is found unenforceable, the remainder will continue in effect.
 
+### 21.9 Time limit on claims
+
+Any Dispute under these Terms must be filed (in arbitration or in court, as applicable) **within two (2) years of the date the Dispute first accrued or could reasonably have been discovered**. Disputes not filed within this period are permanently barred, except where applicable law (including mandatory consumer-protection statutes referred to in Section 24) requires a longer limitations period, in which case the longer period applies.
+
 ---
 
 ## 22. Governing law
@@ -411,16 +454,74 @@ The disclaimers and limitations in these Terms apply to the maximum extent permi
 - **Assignment.** JamSky may assign these Terms, in whole or in part, including to a successor entity in a merger, acquisition, or sale of substantially all assets. You may not assign these Terms without JamSky's prior written consent, and any attempted assignment in breach is void.
 - **No waiver.** Failure or delay by JamSky to enforce any right under these Terms is not a waiver of that right.
 - **Force majeure.** JamSky is not liable for delay or failure to perform due to circumstances beyond its reasonable control, including natural disasters, internet or platform outages, government action, war, terrorism, labor disputes, or pandemic.
-- **Notices.** We may give you notice through the Game, through the email address associated with your Account, or by posting at [jamskygames.com](https://jamskygames.com). You may give us notice by email at [legal@jamskygames.com](mailto:legal@jamskygames.com) or by mail to the address in Section 26.
+- **Notices.** We may give you notice through the Game, through the email address associated with your Account, or by posting at [jamskygames.com](https://jamskygames.com). You may give us notice by email at [legal@jamskygames.com](mailto:legal@jamskygames.com) or by mail to the address in Section 27.
 - **Headings.** Section headings are for convenience only and do not affect interpretation.
 - **No partnership.** Nothing in these Terms creates an agency, partnership, joint venture, or employment relationship between you and JamSky.
 - **Export controls.** You may not use, export, re-export, or transfer the Game in violation of U.S. export laws or any other applicable law.
 - **U.S. government end users.** The Game is "commercial computer software" and "commercial computer software documentation" as those terms are used in 48 C.F.R. §§ 2.101, 12.212, 227.7202.
 - **Language.** These Terms are written in English. To the extent any translation is provided, the English version controls.
 
+### 25.1 Photosensitivity warning (epilepsy notice)
+
+**Important safety information — please read.**
+
+Some individuals may experience seizures, blackouts, eye or muscle twitches, altered vision, dizziness, disorientation, or other visual or physical disturbances when exposed to certain flashing lights, patterns, or specific imagery in video games or on television screens. These reactions may occur even in individuals with no prior medical history of epilepsy or seizures. If you or anyone in your family has an epileptic condition or has previously experienced seizures of any kind, consult a doctor before using the Game.
+
+**If you experience any of the following symptoms while playing — altered vision, dizziness, disorientation, eye or muscle twitches, involuntary movements, loss of awareness, or convulsions — stop playing immediately and consult a doctor before resuming.**
+
+To reduce the risk of photosensitive seizures, we recommend that you:
+
+- Play in a well-lit room rather than in darkness;
+- Sit a reasonable distance from your screen, with the screen sized comfortably for viewing;
+- Avoid playing when you are tired, sleep-deprived, or unwell;
+- Take a break of at least 10–15 minutes during every hour of play;
+- Stop immediately and consult a doctor if you feel unwell or notice any of the symptoms listed above.
+
+If you have a history of epilepsy or any other seizure disorder, please consult a qualified medical professional before using the Game.
+
 ---
 
-## 26. Contact
+## 26. Fan content and streaming
+
+JamSky encourages its community to share their experiences with the Game. Subject to the terms of this Section, you may create, publish, and share **non-commercial content** depicting your gameplay or the Game's audiovisual elements (collectively, "**Fan Content**"), including:
+
+- Gameplay videos, clips, and live streams (e.g., on YouTube, Twitch, TikTok, Kick);
+- Screenshots and short-form social posts;
+- Fan art, illustrations, and craft projects depicting the Game's characters or worlds;
+- Fan-made wikis, guides, podcasts, and discussion forums;
+- Other non-commercial creative works that depict the Game.
+
+### 26.1 What is permitted
+
+- Non-commercial use of the Game's audiovisual content as captured during your normal gameplay;
+- Monetization of streaming or video channels through standard platform-monetization features (YouTube Partner Program, Twitch Subscriptions, Bits, Super Chat, Kick monetization, TikTok Creator Fund, and similar) is permitted as long as the channel is not primarily a brand-sponsored vehicle for the Game;
+- Use of brief screenshots, short clips, and gameplay imagery for review, commentary, criticism, news reporting, or transformative creative purposes (these uses are typically permitted as fair use, fair dealing, or other statutory exceptions under applicable copyright law, independently of and in addition to this permissive grant);
+- Crediting JamSky as the developer of the Game, where appropriate.
+
+### 26.2 What is NOT permitted (without separate written permission from JamSky)
+
+- Commercial use beyond standard platform monetization, including paid sponsorships in which a third-party brand pays you to feature the Game, or commercial advertising campaigns built around the Game;
+- Selling Fan Content as merchandise (e.g., printed art, t-shirts, plush toys, or other physical or digital products depicting JamSky characters or settings) other than for personal, non-commercial use;
+- Use of JamSky trademarks beyond what is necessary to identify the Game (e.g., do not use "JamSky" or "Incorgnito" in your channel name, brand, product line, or business name in a way that suggests official endorsement, partnership, or sponsorship);
+- Use of the Game or its assets in a way that is misleading, defamatory, harassing, hateful, sexually explicit, infringing of others' rights, or otherwise unlawful;
+- Distribution of Game assets (artwork, music, source code, build files, character models) outside of in-context Fan Content (i.e., extracting and redistributing the Game's underlying assets for use independent of gameplay coverage is not permitted);
+- Implication of official partnership, sponsorship, or endorsement by JamSky;
+- Use of Game footage to promote products, services, causes, or messages that are unrelated to the Game in a way that could reasonably mislead viewers as to the Game's affiliations.
+
+### 26.3 Reservations
+
+- JamSky retains all rights in the Game and its trademarks, copyrights, and other intellectual property. Nothing in this Section transfers ownership.
+- This permission may be modified or revoked by JamSky at any time, including with respect to specific Fan Content that violates these Terms or applicable law, by posting an update to these Terms or by directly notifying you. Revocation does not retroactively affect Fan Content that complied with these Terms at the time it was created and shared.
+- This Section does not grant you rights to use any third-party intellectual property that may appear in the Game (e.g., licensed music, sponsor logos, or partner brand marks); those uses remain subject to the relevant third-party rights.
+- Nothing in this Section limits your fair-use, fair-dealing, criticism, review, news-reporting, parody, or other statutory copyright exceptions or limitations under applicable law.
+
+### 26.4 Reporting violations
+
+If you observe Fan Content that violates this Section, you may report it to [legal@jamskygames.com](mailto:legal@jamskygames.com) for review.
+
+---
+
+## 27. Contact
 
 For legal notices or questions about these Terms:
 

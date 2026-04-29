@@ -56,6 +56,7 @@ We collect information in three primary ways: information you provide to us, inf
 - **Approximate location:** derived from IP address (country and region only). We do not collect precise GPS location.
 - **Anti-cheat & security signals:** device fingerprints, anomalous-behavior flags, server-side validation events. These signals are retained for up to **12 months** and used solely to protect the integrity of the Services.
 - **Crash and performance logs.**
+- **Inferences:** information we derive from the categories above (for example, predictions about your gameplay preferences, content you may enjoy, or your propensity to make in-Game purchases). Inferences are treated as personal information under California (CCPA/CPRA) and similar U.S. state laws.
 
 ### 2.3 Information from cookies and similar technologies
 
@@ -85,6 +86,12 @@ We are committed to data minimization. As of the date of this Policy:
 
 If we change any of the practices above, we will update this Policy and provide reasonable notice.
 
+### 2.6 Sensitive personal information
+
+Under California (CCPA/CPRA) and similar U.S. state privacy laws, certain personal information is classified as "**sensitive personal information**." JamSky collects only one category of sensitive personal information: **Account login credentials** (your password and any associated authentication tokens), which we collect and use solely to provide and secure the Service.
+
+We do not use or disclose sensitive personal information for purposes other than those that are necessary to provide the Service or that are otherwise permitted under applicable state law (such as fraud prevention, security, or compliance with legal obligations). We do not "sell" or "share" sensitive personal information for cross-context behavioral advertising, and you do not need to opt out separately for sensitive personal information. Sensitive personal information is retained only for the period needed for the purposes described above and in accordance with Section 8.
+
 ---
 
 ## 3. How we use information
@@ -109,7 +116,15 @@ We **do not sell your personal information for monetary consideration**. We may,
 
 We may share information with:
 
-1. **Service providers and processors** who perform services on our behalf — including cloud hosting, analytics, crash reporting, authentication, anti-cheat, customer support, marketing, and payment-related services. These providers are contractually limited to processing personal information on our instructions and for the purposes we specify.
+1. **Service providers and processors** who perform services on our behalf, contractually limited to processing personal information on our instructions and for the purposes we specify. These include providers in the following categories:
+   - **Cloud hosting and game backend** (e.g., Unity Gaming Services for game services, Cloud Code, Cloud Save, Economy);
+   - **Authentication providers** (e.g., Apple Sign In, Google Sign-In);
+   - **Analytics and product measurement** (e.g., Unity Analytics);
+   - **Crash reporting and diagnostics**;
+   - **Anti-cheat and fraud-prevention** services;
+   - **Customer support and email delivery** tooling;
+   - **Advertising mediation and ad networks** (e.g., Unity LevelPlay, with downstream networks disclosed in our App Store privacy nutrition label and Google Play Data Safety form);
+   - **Payment-related services** (for receipt verification only — actual payment is processed by the Storefronts).
 2. **Storefronts** (Apple App Store, Google Play) and their payment processors, for purchase-related information.
 3. **Advertising and analytics partners**, for the purposes described in Section 5. A list of key advertising partners is available on request.
 4. **Other players or the public**, where applicable (for example, your display name as it appears in receipts; or, in the future, leaderboard names if we introduce that feature).
@@ -161,7 +176,18 @@ Depending on where you live, you may have the right to:
 
 **How to exercise your rights:** email [privacy@jamskygames.com](mailto:privacy@jamskygames.com). We may need to verify your identity before fulfilling certain requests. We will respond within the timeframes required by applicable law (typically 30-45 days; up to 90 days for complex requests with notice).
 
-You may also have an authorized agent submit requests on your behalf, subject to our verification process.
+**Authorized agents.** You may have an authorized agent submit requests on your behalf. The agent must provide written authorization signed by you. We may verify both the agent's identity and your authorization, including by contacting you directly to confirm the agent's authority and the scope of the request.
+
+**Limits on deletion.** We may decline a deletion request, or retain certain personal information after a deletion request, where retention is necessary to:
+
+- Provide the Service or complete a transaction you requested;
+- Detect or prevent security incidents, fraud, or illegal activity;
+- Comply with a legal obligation (such as tax or audit retention);
+- Defend or assert legal claims;
+- Maintain anonymized or aggregated information that no longer identifies you;
+- Otherwise where permitted by applicable law.
+
+Where we deny a deletion request, we will explain the reason and inform you of any right you may have to appeal that decision.
 
 ---
 
@@ -221,9 +247,11 @@ We use a neutral age-gate at first launch that asks for your date of birth. If t
 
 If the age-gate indicates you are 16 or older, only the year of birth is retained at the Account level (per Section 8) for age-enforcement purposes; the full date is not retained.
 
-If you are a parent or guardian and believe a minor has provided us with personal information, please contact us at [privacy@jamskygames.com](mailto:privacy@jamskygames.com) so we can promptly delete the information and close the Account. We treat reports of minor-user accounts as a priority and aim to resolve them within seven (7) days.
+If you are a parent or guardian and believe a minor has provided us with personal information, please contact us at [privacy@jamskygames.com](mailto:privacy@jamskygames.com) so we can promptly delete the information and close the Account. We treat reports of minor-user accounts as a priority. **Once we confirm an Account belongs to a user under 16, we suspend the Account immediately upon receipt of a credible report and delete the personal information associated with that Account within seven (7) days of confirmation.**
 
 We do not knowingly enable interest-based advertising or targeted-marketing communications for users we know or have reason to believe are under 16.
+
+**No parental controls.** Because the Service requires all users to be at least 16 years old, JamSky does not offer parental controls or family-account features. Parents who wish to control or restrict a minor's use of mobile devices generally should use device-level parental controls (Apple Screen Time, Google Family Link, or similar) and/or storefront-level family controls (Apple Family Sharing, Google Play Family Library).
 
 ---
 
@@ -248,6 +276,7 @@ To exercise rights, contact [privacy@jamskygames.com](mailto:privacy@jamskygames
 - We have not "sold" personal information for monetary consideration in the prior 12 months. We may have "shared" personal information with advertising and analytics partners for cross-context behavioral advertising as defined by CPRA.
 - Categories of personal information we collect, sell/share, and disclose are described in Sections 2 and 4.
 - We do not knowingly "sell" or "share" personal information of users under 16.
+- **No automated decision-making with legal effect.** JamSky does not use automated decision-making, including profiling, to make decisions that produce legal or similarly significant effects on you (such as decisions about credit, employment, housing, education, healthcare, insurance, or other economic, legal, or similarly significant matters). Personalization of in-Game offers and content (Section 3) is a commercial customization that does not produce legal or similarly significant effects.
 - California residents may submit a "**California Shine the Light**" request by emailing [privacy@jamskygames.com](mailto:privacy@jamskygames.com) with that subject line.
 - Our retention practices are described in Section 8.
 
